@@ -23,3 +23,5 @@ Esta abordagem tem como objetivo investigar o uso de LLMs na tradução automát
 [1] Artigo: https://dl.acm.org/doi/abs/10.1145/3691620.3695302
 
 [2] Dataset: https://zenodo.org/records/11000349
+
+[3] Z3 Solver: https://microsoft.github.io/z3guide/programming/Z3%20JavaScript%20Examples
