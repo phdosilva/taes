@@ -1,9 +1,9 @@
 # IF722 - Tópicos Avançados Em Engenharia de Software
 Grupo:
-1. crsv
+1. Caio Roberto da Silva Verçosa (crsv)
 2. José Basilio da Silva Neto (jbsn3)
-3. rblf
-4. phos
+3. Ricardo Bizerra de Lima Filho (rblf)
+4. Pedro Henrique de Oliveira Silva (phos)
 
 ## Contexto
 O projeto tem como base o artigo "Translation Titans, Reasoning Challenges: Satisfiability-Aided Language Models for Detecting Conflicting Requirements", que explora o uso de LLMs para auxiliar na melhoria da completude dos requisitos em engenharia de software através de métodos formais. Nosso objetivo é expandir essa abordagem, investigando novas técnicas de aprendizado profundo para aprimorar a avaliação e validação de requisitos conflitantes encontrados no dataset [2].
